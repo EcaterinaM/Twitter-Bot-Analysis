@@ -1,0 +1,164 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation Layer", "0 - Presentation Layer", "{33DC4F02-FDD3-44D7-9951-776A09D74105}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Business Layer", "1 - Business Layer", "{77824283-C2DF-4F60-8763-5C6D6CE7C7F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Data Layer", "2 - Data Layer", "{7E3B74BC-CB68-4DA2-9FC4-4DD2711ACBA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99 - Test Layer", "99 - Test Layer", "{BEB85DC8-B3AB-4C16-AC8E-94778664C40A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainModels", "DomainModels\DomainModels.csproj", "{70725D40-0D92-4431-A12B-F52F45B44798}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataDomain", "DataDomain\DataDomain.csproj", "{345D1B3C-6EFD-4366-9B25-58239D906091}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataPersistance", "DataPersistance\DataPersistance.csproj", "{9D3A5173-6A39-4C03-A4AC-D01A6A7DE214}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TweetApp.Api", "TweetApp.Api\TweetApp.Api.csproj", "{99755B11-55AE-4AD4-A9FB-C5D3129C1288}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{932C97D8-5C53-4493-9C23-4851812CAEB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Infrastructure", "0 - Infrastructure", "{D68AA07F-70BE-4711-85D5-F000F9335290}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{ECF4CD3C-2626-4214-8316-6C143F84EDE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayerServices", "BusinessLayerServices\BusinessLayerServices.csproj", "{AB2C42F8-E65E-4A85-A8EB-0EE2C0F52275}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayerCqrs", "BusinessLayerCqrs\BusinessLayerCqrs.csproj", "{CD7626F4-A25A-47C3-9BC5-9B73FA6C5601}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialAnalyzer.Web", "SocialAnalyzer.Web\SocialAnalyzer.Web.csproj", "{FE6F5B2C-71DA-4849-8EF1-54F0FDD05076}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataCore", "DataCore\DataCore.csproj", "{14BCBEC2-76F9-46FC-8418-9146CA41ACC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helper files", "Helper files", "{69FB0A05-32B8-4D35-B705-71B2C10C74FE}"
+	ProjectSection(SolutionItems) = preProject
+		helper.txt = helper.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureServices", "AzureServices\AzureServices.csproj", "{CEB26F1B-63C9-4561-8E34-C5512C5AB8FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70725D40-0D92-4431-A12B-F52F45B44798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70725D40-0D92-4431-A12B-F52F45B44798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70725D40-0D92-4431-A12B-F52F45B44798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70725D40-0D92-4431-A12B-F52F45B44798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345D1B3C-6EFD-4366-9B25-58239D906091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345D1B3C-6EFD-4366-9B25-58239D906091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345D1B3C-6EFD-4366-9B25-58239D906091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345D1B3C-6EFD-4366-9B25-58239D906091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D3A5173-6A39-4C03-A4AC-D01A6A7DE214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3A5173-6A39-4C03-A4AC-D01A6A7DE214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3A5173-6A39-4C03-A4AC-D01A6A7DE214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3A5173-6A39-4C03-A4AC-D01A6A7DE214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99755B11-55AE-4AD4-A9FB-C5D3129C1288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99755B11-55AE-4AD4-A9FB-C5D3129C1288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99755B11-55AE-4AD4-A9FB-C5D3129C1288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99755B11-55AE-4AD4-A9FB-C5D3129C1288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932C97D8-5C53-4493-9C23-4851812CAEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932C97D8-5C53-4493-9C23-4851812CAEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932C97D8-5C53-4493-9C23-4851812CAEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932C97D8-5C53-4493-9C23-4851812CAEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF4CD3C-2626-4214-8316-6C143F84EDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF4CD3C-2626-4214-8316-6C143F84EDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF4CD3C-2626-4214-8316-6C143F84EDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF4CD3C-2626-4214-8316-6C143F84EDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2C42F8-E65E-4A85-A8EB-0EE2C0F52275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2C42F8-E65E-4A85-A8EB-0EE2C0F52275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2C42F8-E65E-4A85-A8EB-0EE2C0F52275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2C42F8-E65E-4A85-A8EB-0EE2C0F52275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7626F4-A25A-47C3-9BC5-9B73FA6C5601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7626F4-A25A-47C3-9BC5-9B73FA6C5601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7626F4-A25A-47C3-9BC5-9B73FA6C5601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7626F4-A25A-47C3-9BC5-9B73FA6C5601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6F5B2C-71DA-4849-8EF1-54F0FDD05076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6F5B2C-71DA-4849-8EF1-54F0FDD05076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6F5B2C-71DA-4849-8EF1-54F0FDD05076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6F5B2C-71DA-4849-8EF1-54F0FDD05076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BCBEC2-76F9-46FC-8418-9146CA41ACC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BCBEC2-76F9-46FC-8418-9146CA41ACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BCBEC2-76F9-46FC-8418-9146CA41ACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BCBEC2-76F9-46FC-8418-9146CA41ACC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB26F1B-63C9-4561-8E34-C5512C5AB8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB26F1B-63C9-4561-8E34-C5512C5AB8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB26F1B-63C9-4561-8E34-C5512C5AB8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB26F1B-63C9-4561-8E34-C5512C5AB8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{70725D40-0D92-4431-A12B-F52F45B44798} = {77824283-C2DF-4F60-8763-5C6D6CE7C7F4}
+		{345D1B3C-6EFD-4366-9B25-58239D906091} = {7E3B74BC-CB68-4DA2-9FC4-4DD2711ACBA6}
+		{9D3A5173-6A39-4C03-A4AC-D01A6A7DE214} = {7E3B74BC-CB68-4DA2-9FC4-4DD2711ACBA6}
+		{99755B11-55AE-4AD4-A9FB-C5D3129C1288} = {33DC4F02-FDD3-44D7-9951-776A09D74105}
+		{932C97D8-5C53-4493-9C23-4851812CAEB3} = {77824283-C2DF-4F60-8763-5C6D6CE7C7F4}
+		{ECF4CD3C-2626-4214-8316-6C143F84EDE7} = {D68AA07F-70BE-4711-85D5-F000F9335290}
+		{AB2C42F8-E65E-4A85-A8EB-0EE2C0F52275} = {77824283-C2DF-4F60-8763-5C6D6CE7C7F4}
+		{CD7626F4-A25A-47C3-9BC5-9B73FA6C5601} = {77824283-C2DF-4F60-8763-5C6D6CE7C7F4}
+		{FE6F5B2C-71DA-4849-8EF1-54F0FDD05076} = {33DC4F02-FDD3-44D7-9951-776A09D74105}
+		{14BCBEC2-76F9-46FC-8418-9146CA41ACC2} = {7E3B74BC-CB68-4DA2-9FC4-4DD2711ACBA6}
+		{69FB0A05-32B8-4D35-B705-71B2C10C74FE} = {D68AA07F-70BE-4711-85D5-F000F9335290}
+		{CEB26F1B-63C9-4561-8E34-C5512C5AB8FF} = {77824283-C2DF-4F60-8763-5C6D6CE7C7F4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB72F2A5-0501-4B41-A952-9188E6533BBC}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 12
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tweetapp.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DomainModels\\DomainModels.csproj
+		SccProjectTopLevelParentUniqueName1 = TweetAppSolution.sln
+		SccProjectName1 = DomainModels
+		SccLocalPath1 = DomainModels
+		SccProjectUniqueName2 = DataDomain\\DataDomain.csproj
+		SccProjectTopLevelParentUniqueName2 = TweetAppSolution.sln
+		SccProjectName2 = DataDomain
+		SccLocalPath2 = DataDomain
+		SccProjectUniqueName3 = DataPersistance\\DataPersistance.csproj
+		SccProjectTopLevelParentUniqueName3 = TweetAppSolution.sln
+		SccProjectName3 = DataPersistance
+		SccLocalPath3 = DataPersistance
+		SccProjectUniqueName4 = TweetApp.Api\\TweetApp.Api.csproj
+		SccProjectTopLevelParentUniqueName4 = TweetAppSolution.sln
+		SccProjectName4 = TweetApp.Api
+		SccLocalPath4 = TweetApp.Api
+		SccProjectUniqueName5 = Common\\Common.csproj
+		SccProjectTopLevelParentUniqueName5 = TweetAppSolution.sln
+		SccProjectName5 = Common
+		SccLocalPath5 = Common
+		SccProjectUniqueName6 = Infrastructure\\Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName6 = TweetAppSolution.sln
+		SccProjectName6 = Infrastructure
+		SccLocalPath6 = Infrastructure
+		SccProjectUniqueName7 = BusinessLayerServices\\BusinessLayerServices.csproj
+		SccProjectTopLevelParentUniqueName7 = TweetAppSolution.sln
+		SccProjectName7 = BusinessLayerServices
+		SccLocalPath7 = BusinessLayerServices
+		SccProjectUniqueName8 = BusinessLayerCqrs\\BusinessLayerCqrs.csproj
+		SccProjectTopLevelParentUniqueName8 = TweetAppSolution.sln
+		SccProjectName8 = BusinessLayerCqrs
+		SccLocalPath8 = BusinessLayerCqrs
+		SccProjectUniqueName9 = SocialAnalyzer.Web\\SocialAnalyzer.Web.csproj
+		SccProjectTopLevelParentUniqueName9 = TweetAppSolution.sln
+		SccProjectName9 = SocialAnalyzer.Web
+		SccLocalPath9 = SocialAnalyzer.Web
+		SccProjectUniqueName10 = DataCore\\DataCore.csproj
+		SccProjectTopLevelParentUniqueName10 = TweetAppSolution.sln
+		SccProjectName10 = DataCore
+		SccLocalPath10 = DataCore
+		SccProjectUniqueName11 = AzureServices\\AzureServices.csproj
+		SccProjectTopLevelParentUniqueName11 = TweetAppSolution.sln
+		SccProjectName11 = AzureServices
+		SccLocalPath11 = AzureServices
+	EndGlobalSection
+EndGlobal

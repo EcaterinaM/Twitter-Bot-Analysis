@@ -1,0 +1,11 @@
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\bin\Debug\netcoreapp2.0\SocialAnalyzer.Web.deps.json
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\bin\Debug\netcoreapp2.0\SocialAnalyzer.Web.runtimeconfig.json
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\bin\Debug\netcoreapp2.0\SocialAnalyzer.Web.runtimeconfig.dev.json
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\bin\Debug\netcoreapp2.0\SocialAnalyzer.Web.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\bin\Debug\netcoreapp2.0\SocialAnalyzer.Web.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\obj\Debug\netcoreapp2.0\SocialAnalyzer.Web.csproj.CoreCompileInputs.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\obj\Debug\netcoreapp2.0\SocialAnalyzer.Web.AssemblyInfoInputs.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\obj\Debug\netcoreapp2.0\SocialAnalyzer.Web.AssemblyInfo.cs
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\obj\Debug\netcoreapp2.0\SocialAnalyzer.Web.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\obj\Debug\netcoreapp2.0\SocialAnalyzer.Web.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\SocialAnalyzer.Web\obj\Debug\netcoreapp2.0\SocialAnalyzer.Web.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\Facultate\TFS\Licenta\TweetAppSolution\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+E:\Facultate\TFS\Licenta\TweetAppSolution\Common\bin\Debug\netcoreapp2.0\Common.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\Common\bin\Debug\netcoreapp2.0\Common.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+E:\Facultate\TFS\Licenta\TweetAppSolution\Common\obj\Debug\netcoreapp2.0\Common.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\Common\obj\Debug\netcoreapp2.0\Common.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\Common\obj\Debug\netcoreapp2.0\Common.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\bin\Release\netcoreapp2.0\DataPersistance.deps.json
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\bin\Release\netcoreapp2.0\DataPersistance.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\bin\Release\netcoreapp2.0\DataPersistance.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\bin\Release\netcoreapp2.0\DataDomain.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\bin\Release\netcoreapp2.0\DataDomain.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\obj\Release\netcoreapp2.0\DataPersistance.csproj.CoreCompileInputs.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\obj\Release\netcoreapp2.0\DataPersistance.AssemblyInfoInputs.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\obj\Release\netcoreapp2.0\DataPersistance.AssemblyInfo.cs
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\obj\Release\netcoreapp2.0\DataPersistance.csproj.CopyComplete
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\obj\Release\netcoreapp2.0\DataPersistance.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\obj\Release\netcoreapp2.0\DataPersistance.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataPersistance\obj\Release\netcoreapp2.0\DataPersistance.csprojAssemblyReference.cache

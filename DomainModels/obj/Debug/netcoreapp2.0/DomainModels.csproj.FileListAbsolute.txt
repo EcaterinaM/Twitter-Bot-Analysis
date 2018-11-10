@@ -1,0 +1,12 @@
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\bin\Debug\netcoreapp2.0\DomainModels.deps.json
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\bin\Debug\netcoreapp2.0\DomainModels.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\bin\Debug\netcoreapp2.0\DomainModels.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\obj\Debug\netcoreapp2.0\DomainModels.csproj.CoreCompileInputs.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\obj\Debug\netcoreapp2.0\DomainModels.AssemblyInfoInputs.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\obj\Debug\netcoreapp2.0\DomainModels.AssemblyInfo.cs
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\obj\Debug\netcoreapp2.0\DomainModels.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\obj\Debug\netcoreapp2.0\DomainModels.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\obj\Debug\netcoreapp2.0\DomainModels.csprojAssemblyReference.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\bin\Debug\netcoreapp2.0\Common.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\bin\Debug\netcoreapp2.0\Common.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\DomainModels\obj\Debug\netcoreapp2.0\DomainModels.csproj.CopyComplete

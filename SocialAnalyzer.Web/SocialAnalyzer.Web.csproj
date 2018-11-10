@@ -1,0 +1,63 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="social-analyzer\src\app\shared\components\button-component\button.component.ts" />
+    <None Remove="social-analyzer\src\app\shared\components\line-info-component\line-info.component.ts" />
+    <None Remove="social-analyzer\src\app\shared\components\row-component\row.component.ts" />
+    <None Remove="social-analyzer\src\app\shared\models\twitter\hashtag-history\keyphrase-result.model.ts" />
+    <None Remove="social-analyzer\src\app\shared\models\twitter\hashtag-history\keyphrase.model.ts" />
+    <None Remove="social-analyzer\src\app\shared\models\twitter\location.model.ts" />
+    <None Remove="social-analyzer\src\app\shared\models\twitter\news.model.ts" />
+    <None Remove="social-analyzer\src\app\shared\models\twitter\sentiment-type.model.ts" />
+    <None Remove="social-analyzer\src\app\shared\models\twitter\user-profile\followers.model.ts" />
+    <None Remove="social-analyzer\src\app\shared\models\twitter\user-profile\timeline.model.ts" />
+    <None Remove="social-analyzer\src\app\shared\models\twitter\user-profile\user.model.ts" />
+    <None Remove="social-analyzer\src\app\shared\services\map.service.ts" />
+    <None Remove="social-analyzer\src\app\shared\services\user.service.ts" />
+    <None Remove="social-analyzer\src\app\twitter-module\twitter-bubble-chart\hashtag-keep-search.service.ts" />
+    <None Remove="social-analyzer\src\app\twitter-module\twitter-map\twitter-map.service.ts" />
+    <None Remove="social-analyzer\src\app\twitter-module\twitter-user\twitter-user.component.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="social-analyzer\src\app\shared\models\twitter\NewFolder1\" />
+    <Folder Include="social-analyzer\src\app\shared\models\twitter\NewFolder2\" />
+    <Folder Include="social-analyzer\src\app\shared\models\twitter\NewFolder\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\components\button-component\button.component.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\components\line-info-component\line-info.component.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\components\row-component\row.component.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\models\twitter\hashtag-history\keyphrase-result.model.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\models\twitter\hashtag-history\keyphrase.model.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\models\twitter\location.model.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\models\twitter\news.model.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\models\twitter\sentiment-type.model.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\models\twitter\user-profile\followers.model.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\models\twitter\user-profile\timeline.model.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\models\twitter\user-profile\user.model.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\services\map.service.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\shared\services\user.service.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\twitter-module\twitter-bubble-chart\hashtag-keep-search.service.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\twitter-module\twitter-map\twitter-map.service.ts" />
+    <TypeScriptCompile Include="social-analyzer\src\app\twitter-module\twitter-user\twitter-user.component.ts" />
+  </ItemGroup>
+
+</Project>

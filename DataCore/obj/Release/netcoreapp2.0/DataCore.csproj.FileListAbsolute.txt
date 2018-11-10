@@ -1,0 +1,14 @@
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\bin\Release\netcoreapp2.0\DataCore.deps.json
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\bin\Release\netcoreapp2.0\DataCore.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\bin\Release\netcoreapp2.0\DataCore.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\bin\Release\netcoreapp2.0\DataDomain.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\bin\Release\netcoreapp2.0\DataPersistance.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\bin\Release\netcoreapp2.0\DataDomain.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\bin\Release\netcoreapp2.0\DataPersistance.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\obj\Release\netcoreapp2.0\DataCore.csproj.CoreCompileInputs.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\obj\Release\netcoreapp2.0\DataCore.AssemblyInfoInputs.cache
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\obj\Release\netcoreapp2.0\DataCore.AssemblyInfo.cs
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\obj\Release\netcoreapp2.0\DataCore.csproj.CopyComplete
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\obj\Release\netcoreapp2.0\DataCore.dll
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\obj\Release\netcoreapp2.0\DataCore.pdb
+E:\Facultate\TFS\Licenta\TweetAppSolution\DataCore\obj\Release\netcoreapp2.0\DataCore.csprojAssemblyReference.cache
